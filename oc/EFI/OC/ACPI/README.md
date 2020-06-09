@@ -4,7 +4,7 @@
 
 #只需要打快捷键补丁、原生电源补丁、电池补丁
 
-#快捷键将（_Q16  _Q64  _Q65）更换为一下代码：
+#快捷键将（_Q16(Prtsc截图)  【_Q64  _Q65】（亮度快捷键））更换为一下代码：
 
 
 into method label _Q16 replace_content begin
